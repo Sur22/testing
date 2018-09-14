@@ -1,0 +1,60 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.wrapper{
+	margin: 5px auto;
+	width: 960px;
+	border: dotted 1px;
+
+
+}
+.grad {
+
+background-color: lightblue;
+background-image: linear-gradient(to bottom, lightblue, white);
+
+
+
+
+}
+h3,h2{
+text-align: center;
+}
+
+p{
+	text-align: left;
+}
+.main {
+border: 2px solid #585858;
+float: right;
+width: 700px;
+margin:0 15px 15px 5px;
+
+
+
+}
+.menu {
+float:left;
+margin-left: 15px;
+width:150px;
+border: 2px solid #585858;
+}
+
+
+.menu ul li {
+	list-style: none;
+	margin-left: 20px;
+	padding: 2px;
+
+
+}
+ footer{
+ 	border-top: dotted 1px;
+ 	text-align: center;
+ 	color: grey; 
+ }
+.copyright {
+clear: both;
+}
